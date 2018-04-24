@@ -25,7 +25,7 @@
 				<div class="row pad-small">
 					<div class="col-sm-12">
 						<div class="inner-title">
-							<h3>CONSTRUYE TUS IDEAS</h3>
+							<h3>NOSOTROS</h3>
 							<p>CREA TU MARCA PERSONAL</p>
 						</div>
 					</div>
@@ -35,26 +35,23 @@
 
 		<section class="paragraph">
 			<div class="container">
-				<h1>Tus proyectos deben impactar y llegar donde tu competencia no llega</h1>
+				<h1>GrowVision está creciendo y llegando donde nadie más llega</h1>
 				<p>
-				Los sitios web son la herramienta menos costosa y más útil en el mundo de los negocios.<br><br>
+				Tenemos como objetivo brindar un servicio de calidad, que se ajuste a tu moda, un lente que marque tu estilo y personalidad.<br><br>
 				
-				Mejora la auditoria de clientes potenciales, disminuye los costos,
-				fideliza y entrega información precisa y oportuna a sus clientes.<br><br>
+				En GrowVision podrás encontrar las nuevas tendencias en lentes. Te esperamos en nuestro local en La Serena.<br><br>
 
-				Ostende pretende presentar un portafolio en línea para que puedas mostrar tus 
-				proyectos o productos de una manera más eficiente y mejor accesible.<br><br>
 				</p>
 			</div>				
 		</section>
 
 		<section class="blockquote">
 			<div class="container">
-				<h1>Adapta tu ideas con Ostende</h1>
-					<blockquote>Softdirex es capaz de añadir contendios y funcionalidades nuevas a Ostende para que puedar tener una experiencia única.</blockquote>
+				<h1>GrowVision se adapta a tí</h1>
+					<blockquote>Salimos del formato convencional para ser una optica de vanguardia, donde te encuentres a gusto eligiendo el modelo mas vigente de cada temporada.</blockquote>
 			</div>
 		</section>
-
+	<!--
 		<section class="unordered-list">
 			<div class="container">
 				<h1>Arma el rompecabezas</h1>				
@@ -83,6 +80,7 @@
 				</ul>
 			</div>								
 		</section>
+		-->
 
 		
 

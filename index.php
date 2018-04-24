@@ -36,10 +36,10 @@
 							<div class="overlay"></div>
 							<div class="head-text">
 								<div class="col-md-6 col-md-offset-3">
-									<h1>CONSTRUYE TUS IDEAS CON NOSOTROS</h1>
+									<h1>GrowVision</h1>
 								</div>
 								<div class="col-md-6 col-md-offset-3">
-									<a href="site1.php">UN PRODUCTO A TU MEDIDA</a>
+									<a href="site1.php">Excelentes precios y productos.</a>
 								</div>
 							</div>
 						</div>
@@ -48,10 +48,10 @@
 							<div class="overlay"></div>
 							<div class="head-text">
 								<div class="col-md-6 col-md-offset-3">
-									<h1>DALE UN PLUS A TUS PROYECTOS</h1>
+									<h1>GrowVision Anteojos</h1>
 								</div>
 								<div class="col-md-6 col-md-offset-3">
-									<a href="site2.php">PRESENTA TUS TRABAJOS AL MUNDO</a>
+									<a href="site2.php">Ecuentra lo que buscas y mas.</a>
 								</div>
 							</div>
 						</div>
@@ -60,10 +60,10 @@
 							<div class="overlay"></div>
 							<div class="head-text">
 								<div class="col-md-6 col-md-offset-3">
-									<h1>IMPACTA A TUS CLIENTES</h1>
+									<h1>GrowVision Empresas</h1>
 								</div>
 								<div class="col-md-6 col-md-offset-3">
-									<a href="site3.php">ENVÍA PRESUPUESTOS PROFESIONALES</a>
+									<a href="site3.php">Ofertas, descuentos y convenios con empresas.</a>
 								</div>
 							</div>
 						</div>

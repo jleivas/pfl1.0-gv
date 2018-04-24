@@ -25,8 +25,8 @@
 				<div class="row pad-small">
 					<div class="col-sm-12">
 						<div class="inner-title">
-							<h3>DALE UN PLUS A TUS PROYECTOS</h3>
-							<p>PRESENTA TUS TRABAJOS AL MUNDO</p>
+							<h3>UN LENTE PARA TI</h3>
+							<p>Lentes de contacto, lentes de receta y lentes de sol.</p>
 						</div>
 					</div>
 				</div>
@@ -35,23 +35,18 @@
 
 		<section class="paragraph">
 			<div class="container">
-				<h1>La globalización es un trén que no debes dejar pasar</h1>
-				<p>Ya es tiempo de que te pongas al día con las nuevas herramientas que ofrece
-					la tecnología. <br><br>
+				<h1>Una solución a tu vista y apariencia.</h1>
+				<p>GrowVision reúne completamente las soluciones a todos los requerimientos que nuestros pacientes necesiten para mejorar su calidad de vida en la parte visual. Con atención a adultos y niños.<br><br>
 
-					!No hay nada mejor que sentir la satisfacción de terminar tu trabajo!
-					¿Te ha pasado?, pero, ¿Cómo lo haces para compartir ese momento tan especial?<br><br>
-
-					Con Ostende podrás inmortalizar ese momento desde tu celular y con simples pasos
-					mostrarlo a tus clientes a través de tu sitio de inicio.
+					Reunimos las características de una empresa seria y completamente enfocada en la satisfacción de sus clientes, responsabilidad, seriedad, transparencia y calidad.
 				</p>
 			</div>				
 		</section>
 
 		<section class="blockquote">
 			<div class="container">
-				<h1>Añade las páginas que quieras</h1>
-					<blockquote>Tu sitio web tendrá tu propio dominio y podrás agregar las páginas que deseas.</blockquote>
+				<h1>GrowVision</h1>
+					<blockquote>Ven por tus lentes y conocerás una óptica de verdad.</blockquote>
 			</div>
 		</section>
 

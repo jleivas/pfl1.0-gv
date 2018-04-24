@@ -25,8 +25,8 @@
 				<div class="row pad-small">
 					<div class="col-sm-12">
 						<div class="inner-title">
-							<h3>IMPACTA A TUS CLIENTES</h3>
-							<p>ENVÍA PRESUPUESTOS PROFESIONALES</p>
+							<h3>CONVENIOS</h3>
+							<p>Beneficios y descuentos</p>
 						</div>
 					</div>
 				</div>
@@ -35,21 +35,17 @@
 
 		<section class="paragraph">
 			<div class="container">
-				<h1>Demuestra que eres profesional y serio</h1>
+				<h1>Demuestra que estas preocupado por tus empleados</h1>
 				<p>
-					Softdirex diseña tu presupuesto y tú podrás prepararlo fácilmente cada vez
-					que lo necesites.<br><br>
+					GrowVision ha diseñado un servicio enfocado en tus trabajadores.<br><br>
 
-					Tendrás el respaldo de todos los presupuestos enviados ordenadamente y podrás acceder a ellos
-					cuando lo requieras, tus clientes recibirán un correo personalizado con la información que tú les
-					proporcionaste.<br><br>
+					Tendrás la satisfacción de ser una empresa comprometida con su equipo de trabajo brindándoles la oportunidad de acceder a un servicio enfocado a la salud visual con ofertas convenientes y una atención privilegiada.<br><br>
 
-					Si quieres sabér mas de nuestro producto, rellena el formulario de contacto o simplemente visita
-					nuestro sitio web <a href="http://www.softdirex.cl" target="_blank">Softdirex</a>.
+					Si deseas tener ms información de este servicio <a href="index.php" target="_blank">contáctanos</a>.
 				</p>
 			</div>				
 		</section>
-
+<!--
 		<section class="unordered-list">
 			<div class="container">
 				<h1>Rápido y sencillo</h1>				
@@ -74,7 +70,7 @@
 					</li>
 				</ul>
 			</div>								
-		</section>
+		</section> -->
 
 
 		

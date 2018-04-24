@@ -10,13 +10,13 @@
 							<div class="col-md-8">
 								<div class="row">
 									<div class="col-md-4">
-										<p><a href="site1.php">CONSTRUYE</a></p>
+										<p><a href="site1.php">NOSOTROS</a></p>
 									</div>
 									<div class="col-md-4">
-										<p><a href="site2.php">PUBLICA</a></p>
+										<p><a href="site2.php">SERVICIOS</a></p>
 									</div>
 									<div class="col-md-4">
-										<p><a href="site3.php">ENVÍA</a></p>
+										<p><a href="site3.php">CONVENIOS</a></p>
 									</div>
 								</div>
 							</div>
