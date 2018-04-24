@@ -211,7 +211,7 @@
 							<div class="img-wrapper">
 								<img class="img-responsive" src="assets/images/icons/address.png" alt="" />
 							</div>
-							<p>Dirección <br> Lugar | País</p>
+							<p>Av. Amunategui 489 Of. 230 Porta Amunategui <br> La Serena | Chile</p>
 						</div>
 						<hr>
 						<div class="contact-info-content">
@@ -219,8 +219,7 @@
 							<div class="img-wrapper">
 								<img class="img-responsive" src="assets/images/icons/call.png" alt="" />
 							</div>
-							<p>+044 425 541 42 / +044 455 541 44
-								<br>+044 455 541 46 (FAX)
+							<p>+512 689 888 / +569 621 290 02
 							</p>
 						</div>
 						<hr>
@@ -229,7 +228,7 @@
 							<div class="img-wrapper">
 								<img class="img-responsive" src="assets/images/icons/email.png" alt="" />
 							</div>
-							<p>contacto@softdirex.cl <br>jorge.leiva@softdirex.cl</p>
+							<p>info@growvision.cl <br>awilhelm@growvision.cl</p>
 						</div>
 					</div> <!-- /.contact-info -->
 				</div>

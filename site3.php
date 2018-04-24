@@ -41,7 +41,7 @@
 
 					Tendrás la satisfacción de ser una empresa comprometida con su equipo de trabajo brindándoles la oportunidad de acceder a un servicio enfocado a la salud visual con ofertas convenientes y una atención privilegiada.<br><br>
 
-					Si deseas tener ms información de este servicio <a href="index.php" target="_blank">contáctanos</a>.
+					Si deseas tener ms información de este servicio <a href="index.php">contáctanos</a>.
 				</p>
 			</div>				
 		</section>
