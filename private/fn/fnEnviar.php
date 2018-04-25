@@ -195,7 +195,7 @@ function enviarBoletin2($proyecto2,$autor2,$cliente2,$texto2,$mail2,$nombreArchi
 		  "Atentamente ".$autor2.
       		
 		  "<hr><h6>Copyright 2018 por <a href='www.softdirex.cl' target='_blank' color='Blue'><b>Softdirex</b></a>&nbsp;&nbsp;&nbsp;&nbsp;
-		        <img align='center' src='https://www.softdirex.cl/assets/img/ft-growvision.png'>      ".
+		        <img align='center' src='https://www.softdirex.cl/imgMail/ft-growvision.png'>      ".
 		  "&nbsp;&nbsp;&nbsp;&nbsp;<a href='www.growvision.cl' target='_blank' color='Blue'><b>GrowVision</b></a>".
 		" Ampliamos tu mirada.</h6>".
 		"<hr>".

@@ -141,7 +141,7 @@ if(isset($_POST['email'])) {
       "<hr><br><br><br>".
       "No responda a este correo electrónico, mensaje enviado desde el servidor.<br><br><br>".
       "<hr><h6>Copyright 2018 por Softdirex&nbsp;&nbsp;&nbsp;&nbsp;
-            <img align='center' src='https://www.softdirex.cl/assets/img/footer-logo.png'>      ".
+            <img align='center' src='https://www.softdirex.cl/imgMail/footer-logo.png'>      ".
       "&nbsp;&nbsp;&nbsp;&nbsp;<a href='www.softdirex.cl' color='Orange'><b>Softdirex</b></a>".
     " Un nuevo concepto para tu empresa</h6>".
     "</div>".
