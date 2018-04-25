@@ -98,38 +98,38 @@ if(isset($_POST['email'])) {
     $mensajeMail = "Mensaje: ".clean_string($mensaje);
 
 // Inicio mensaje ------------------------------------------------------------------------------------------------------
-    $titulo = 'Contacto | OSTENDE.SOFTDIREX.CL';
+    $titulo = 'Contacto | GROWVISION.CL';
      
     $email_message = "<html>".
     "<head>".
-    "<style type='text/css'>".
-      ".boton_personalizado{".
-        "text-decoration: none;".
-        "padding: 10px;".
-        "font-weight: 600;".
-        "font-size: 20px;".
-        "color: #ffffff;".
-        "background-color: #ff8000;".
-        "border-radius: 10px;".
-        "border: 2px #0016b0;".
-      "}".
-       ".boton_personalizado:hover{".
-        "color: #ff8000;".
-        "background-color: #ffffff;".
-      "}".
-      ".bloque {".
-      "background-color: #fafafa;".
-      "margin: 1rem;".
-      "padding: 1rem;".
-      "text-align: center;".
-    "}".
-    "</style>".
+		"<style type='text/css'>".
+		  ".boton_personalizado{".
+		    "text-decoration: none;".
+		    "padding: 10px;".
+		    "font-weight: 600;".
+		    "font-size: 20px;".
+		    "color: #ffffff;".
+		    "background-color: #072170;".
+		    "border-radius: 10px;".
+		    "border: 2px #0016b0;".
+		  "}".
+		   ".boton_personalizado:hover{".
+		    "color: #072170;".
+		    "background-color: #ffffff;".
+		  "}".
+		  ".bloque {".
+		  "background-color: #fafafa;".
+		  "margin: 1rem;".
+		  "padding: 1rem;".
+		  "text-align: center;".
+		"}".
+		"</style>".
     "</head>".
     "<body>".
     "<div class='bloque' style='width:100%; height:auto;'>".
     "<font color='Orange' face='verdana'>".
     "<h1>Tienes un nuevo mensaje desde un formulario de contacto</h1>".
-    "<img align='center' src='https://www.softdirex.cl/assets/img/softdirex_logo.png'><br>".
+    "<img align='center' src='https://www.softdirex.cl/imgMail/growvision-logo-mail.png'><br>".
     "<br>".
     "</font>".
     "<font face='verdana'>".
@@ -140,7 +140,7 @@ if(isset($_POST['email'])) {
     "</font>".
       "<hr><br><br><br>".
       "No responda a este correo electrónico, mensaje enviado desde el servidor.<br><br><br>".
-      "<hr><h6>Copyright 2017 por Softdirex&nbsp;&nbsp;&nbsp;&nbsp;
+      "<hr><h6>Copyright 2018 por Softdirex&nbsp;&nbsp;&nbsp;&nbsp;
             <img align='center' src='https://www.softdirex.cl/assets/img/footer-logo.png'>      ".
       "&nbsp;&nbsp;&nbsp;&nbsp;<a href='www.softdirex.cl' color='Orange'><b>Softdirex</b></a>".
     " Un nuevo concepto para tu empresa</h6>".
