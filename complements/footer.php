@@ -5,7 +5,7 @@
 					<div class="col-md-6">
 						<div class="row">
 							<div class="col-md-4">
-								<span><img src="assets/images/logo.png"></span>
+								<span><img src="assets/images/logo2.png" width="100" height="30"></span>
 							</div>
 							<div class="col-md-8">
 								<div class="row">

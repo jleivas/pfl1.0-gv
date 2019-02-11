@@ -8,7 +8,7 @@
 								<img src="assets/images/nav-icon.png" class="img-responsive" alt="Collapsable Navbar">
 							</a>
 							<a href="index.php">
-								<span><img src="assets/images/logo.png"></span>
+								<span><img src="assets/images/logo2.png" width="100" height="40"></span>
 							</a>
 						</div>
 					</header>
