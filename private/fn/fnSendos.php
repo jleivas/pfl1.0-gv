@@ -98,7 +98,7 @@ if(isset($_POST['email'])) {
     $mensajeMail = "Mensaje: ".clean_string($mensaje);
 
 // Inicio mensaje ------------------------------------------------------------------------------------------------------
-    $titulo = 'Contacto | GROWVISION.CL';
+    $titulo = 'Contacto | project.CL';
      
     $email_message = "<html>".
     "<head>".
@@ -129,7 +129,7 @@ if(isset($_POST['email'])) {
     "<div class='bloque' style='width:100%; height:auto;'>".
     "<font color='Orange' face='verdana'>".
     "<h1>Tienes un nuevo mensaje desde un formulario de contacto</h1>".
-    "<img align='center' src='https://www.softdirex.cl/imgMail/growvision-logo-mail.png'><br>".
+    "<img align='center' src='https://www.softdirex.cl/imgMail/project-logo-mail.png'><br>".
     "<br>".
     "</font>".
     "<font face='verdana'>".

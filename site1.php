@@ -35,11 +35,11 @@
 
 		<section class="paragraph">
 			<div class="container">
-				<h1>GrowVision está creciendo y llegando donde nadie más llega</h1>
+				<h1>project está creciendo y llegando donde nadie más llega</h1>
 				<p>
-				Tenemos como objetivo brindar un servicio de calidad, que se ajuste a tu moda, un lente que marque tu estilo y personalidad.<br><br>
+				Tenemos como objetivo brindar un servicio de calidad, que se ajuste a tu antojo, un servicio que marque tu estilo y personalidad.<br><br>
 				
-				En GrowVision podrás encontrar las nuevas tendencias en lentes. Te esperamos en nuestro local en La Serena.<br><br>
+				En project podrás encontrar las nuevas tendencias en arquitectura. Te esperamos en nuestro local en La project.<br><br>
 
 				</p>
 			</div>				
@@ -47,8 +47,8 @@
 
 		<section class="blockquote">
 			<div class="container">
-				<h1>GrowVision se adapta a tí</h1>
-					<blockquote>Salimos del formato convencional para ser una optica de vanguardia, donde te encuentres a gusto eligiendo el modelo mas vigente de cada temporada.</blockquote>
+				<h1>project se adapta al medio ambiente</h1>
+					<blockquote>Nuestro servicio de vanguardia, ofrece soluciones inmobiliarias sustentables y amigables con el medio ambiente.</blockquote>
 			</div>
 		</section>
 	<!--

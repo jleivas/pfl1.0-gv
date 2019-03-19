@@ -36,10 +36,10 @@
 							<div class="overlay"></div>
 							<div class="head-text">
 								<div class="col-md-6 col-md-offset-3">
-									<h1>GrowVision</h1>
+									<h1>Titulo1</h1>
 								</div>
 								<div class="col-md-6 col-md-offset-3">
-									<a href="site1.php">Excelentes precios y productos.</a>
+									<a href="site1.php">Excelente servicio y atención privilegiada.</a>
 								</div>
 							</div>
 						</div>
@@ -48,7 +48,7 @@
 							<div class="overlay"></div>
 							<div class="head-text">
 								<div class="col-md-6 col-md-offset-3">
-									<h1>GrowVision Anteojos</h1>
+									<h1>Titulo2</h1>
 								</div>
 								<div class="col-md-6 col-md-offset-3">
 									<a href="site2.php">Ecuentra lo que buscas y mas.</a>
@@ -60,7 +60,7 @@
 							<div class="overlay"></div>
 							<div class="head-text">
 								<div class="col-md-6 col-md-offset-3">
-									<h1>GrowVision Empresas</h1>
+									<h1>Titulo3</h1>
 								</div>
 								<div class="col-md-6 col-md-offset-3">
 									<a href="site3.php">Ofertas, descuentos y convenios con empresas.</a>
@@ -211,7 +211,7 @@
 							<div class="img-wrapper">
 								<img class="img-responsive" src="assets/images/icons/address.png" alt="" />
 							</div>
-							<p>Av. Amunategui 489 Of. 230 Porta Amunategui <br> La Serena | Chile</p>
+							<p>Direccion <br> Cuidad | Chile</p>
 						</div>
 						<hr>
 						<div class="contact-info-content">
@@ -219,7 +219,7 @@
 							<div class="img-wrapper">
 								<img class="img-responsive" src="assets/images/icons/call.png" alt="" />
 							</div>
-							<p>+512 689 888 / +569 621 290 02
+							<p>+512 000 000 / +569 000 000 00
 							</p>
 						</div>
 						<hr>
@@ -228,7 +228,7 @@
 							<div class="img-wrapper">
 								<img class="img-responsive" src="assets/images/icons/email.png" alt="" />
 							</div>
-							<p>info@growvision.cl <br>awilhelm@growvision.cl</p>
+							<p>info@page.cl <br>contacto@page.cl</p>
 						</div>
 					</div> <!-- /.contact-info -->
 				</div>

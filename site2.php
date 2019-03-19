@@ -25,8 +25,8 @@
 				<div class="row pad-small">
 					<div class="col-sm-12">
 						<div class="inner-title">
-							<h3>UN LENTE PARA TI</h3>
-							<p>Lentes de contacto, lentes de receta y lentes de sol.</p>
+							<h3>project</h3>
+							<p>nuestros servicios son...</p>
 						</div>
 					</div>
 				</div>
@@ -35,8 +35,8 @@
 
 		<section class="paragraph">
 			<div class="container">
-				<h1>Una solución a tu vista y apariencia.</h1>
-				<p>GrowVision reúne completamente las soluciones a todos los requerimientos que nuestros pacientes necesiten para mejorar su calidad de vida en la parte visual. Con atención a adultos y niños.<br><br>
+				<h1>Cambiando la vista del mundo.</h1>
+				<p>project reúne completamente las soluciones a todos los requerimientos que nuestros clientes necesiten para mejorar su calidad de vida.<br><br>
 
 					Reunimos las características de una empresa seria y completamente enfocada en la satisfacción de sus clientes, responsabilidad, seriedad, transparencia y calidad.
 				</p>
@@ -45,8 +45,8 @@
 
 		<section class="blockquote">
 			<div class="container">
-				<h1>GrowVision</h1>
-					<blockquote>Ven por tus lentes y conocerás una óptica de verdad.</blockquote>
+				<h1>project</h1>
+					<blockquote>Cotiza con nosotros.</blockquote>
 			</div>
 		</section>
 

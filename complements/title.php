@@ -1,3 +1,3 @@
 <?php
-   echo "<title>GrowVision</title>";
+   echo "<title>Project</title>";
 ?>

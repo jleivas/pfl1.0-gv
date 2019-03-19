@@ -56,7 +56,7 @@ $contentHtml = $contentHtml . '
 
 		<section class="paragraph">
 			<div class="container">
-				<h1>GrowVision está creciendo y llegando donde nadie más llega</h1>
+				<h1>project está creciendo y llegando donde nadie más llega</h1>
 			</div>				
 		</section>
 

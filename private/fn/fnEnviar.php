@@ -144,9 +144,9 @@ function enviarBoletin2($proyecto2,$autor2,$cliente2,$texto2,$mail2,$nombreArchi
 	$mail = new PHPMailer();
 	$mail->CharSet = 'UTF-8';
 	$mail->Host = "mx1.hostinger.es";
-	$mail->From = "no-reply@growvision.cl";
-	$mail->FromName = "GrowVision";
-	$mail->Subject = "Cotizacion de ".$proyecto2." [growvision.cl]";
+	$mail->From = "no-reply@project.cl";
+	$mail->FromName = "Project";
+	$mail->Subject = "Cotizacion de ".$proyecto2." [project.cl]";
 	$mail->IsHTML(true);
 	$cont=0;
 	// HTML body
@@ -180,13 +180,13 @@ function enviarBoletin2($proyecto2,$autor2,$cliente2,$texto2,$mail2,$nombreArchi
 		"<div class='bloque' style='width:100%; height:auto;'>".
 		"<font color='Blue' face='verdana'>".
 		"<h1>Corización de ".$proyecto2."</h1>".
-		"<img align='center' src='https://www.softdirex.cl/imgMail/growvision-logo-mail.png'><br>".
+		"<img align='center' src='https://www.softdirex.cl/imgMail/project-logo-mail.png'><br>".
 		"</font>".
 		"<font face='verdana'>".
 		  "Estimado ".$cliente2.", le informamos que se encuentra disponible su c otización:<br><br>".$texto2.
 		  
 		"</font>".
-		"<br><br><br><a href='http://www.growvision.cl/' class='boton_personalizado'>Ir a growvision.cl</a><br><br><br>".
+		"<br><br><br><a href='http://www.project.cl/' class='boton_personalizado'>Ir a project.cl</a><br><br><br>".
 		"<font color='Blue' face='verdana'>".
 		"<h3>Para visualizar el contenido, descargue el archivo adjunto.</h3>".
 		"</font>".
@@ -195,8 +195,8 @@ function enviarBoletin2($proyecto2,$autor2,$cliente2,$texto2,$mail2,$nombreArchi
 		  "Atentamente ".$autor2.
       		
 		  "<hr><h6>Copyright 2018 por <a href='www.softdirex.cl' target='_blank' color='Blue'><b>Softdirex</b></a>&nbsp;&nbsp;&nbsp;&nbsp;
-		        <img align='center' src='https://www.softdirex.cl/imgMail/ft-growvision.png'>      ".
-		  "&nbsp;&nbsp;&nbsp;&nbsp;<a href='www.growvision.cl' target='_blank' color='Blue'><b>GrowVision</b></a>".
+		        <img align='center' src='https://www.softdirex.cl/imgMail/ft-project.png'>      ".
+		  "&nbsp;&nbsp;&nbsp;&nbsp;<a href='www.project.cl' target='_blank' color='Blue'><b>project</b></a>".
 		" Ampliamos tu mirada.</h6>".
 		"<hr>".
 		"</div>".
