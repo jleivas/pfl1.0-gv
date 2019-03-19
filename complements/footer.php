@@ -5,18 +5,18 @@
 					<div class="col-md-6">
 						<div class="row">
 							<div class="col-md-4">
-								<span><img src="assets/images/logo2.png" width="100" height="30"></span>
+								<span><img src="assets/images/logo.png"></span>
 							</div>
 							<div class="col-md-8">
 								<div class="row">
 									<div class="col-md-4">
-										<p><a href="site1.php">NOSOTROS</a></p>
+										<p><a href="#">CONSTRUCCION</a></p>
 									</div>
 									<div class="col-md-4">
-										<p><a href="site2.php">SERVICIOS</a></p>
+										<p><a href="#">ELECTRICIDAD</a></p>
 									</div>
 									<div class="col-md-4">
-										<p><a href="site3.php">CONVENIOS</a></p>
+										<p><a href="#">GASFITERÍA</a></p>
 									</div>
 								</div>
 							</div>

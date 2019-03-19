@@ -2,7 +2,7 @@
 
 <html>
 	<head>
-		<?php include("complements/title.php") ?>
+		<title>Electricidad</title>
 
 		<meta charset="utf-8"/>
 		<meta name="viewport" content="width=device-width, initial-scale=1"/>
@@ -25,8 +25,8 @@
 				<div class="row pad-small">
 					<div class="col-sm-12">
 						<div class="inner-title">
-							<h3>UN LENTE PARA TI</h3>
-							<p>Lentes de contacto, lentes de receta y lentes de sol.</p>
+							<h3>ELECTRICIDAD</h3>
+							<p>DALE ENERGÍA A TU HOGAR</p>
 						</div>
 					</div>
 				</div>
@@ -35,18 +35,16 @@
 
 		<section class="paragraph">
 			<div class="container">
-				<h1>Una solución a tu vista y apariencia.</h1>
-				<p>GrowVision reúne completamente las soluciones a todos los requerimientos que nuestros pacientes necesiten para mejorar su calidad de vida en la parte visual. Con atención a adultos y niños.<br><br>
-
-					Reunimos las características de una empresa seria y completamente enfocada en la satisfacción de sus clientes, responsabilidad, seriedad, transparencia y calidad.
-				</p>
+				<h1>Empalmes, conexiones e iluminación</h1>
+				<p>Contamos con profesionales disponibles para ofrecer un servicio completo y de calidad, nuestro valor humano y profesional es tu beneficio.</p>
 			</div>				
 		</section>
 
 		<section class="blockquote">
 			<div class="container">
-				<h1>GrowVision</h1>
-					<blockquote>Ven por tus lentes y conocerás una óptica de verdad.</blockquote>
+				<h1>Demanda energética</h1>
+					<blockquote>La globalización, la convergencia tecnológica, la demanda de energía y de tiempos de desarrollo más reducidos, la exigencia de mejoras en cuanto a la fiabilidad y el rendimiento, así como los cambios normativos, son cada vez más importantes en este sector.<br>
+					Cimenta S&S está capacitada para poder responder a esa demanda del mercado.</blockquote>
 			</div>
 		</section>
 

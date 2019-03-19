@@ -2,7 +2,7 @@
 
 <html>
 	<head>
-		<?php include("complements/title.php") ?>
+		<title>Construccion</title>
 
 		<meta charset="utf-8"/>
 		<meta name="viewport" content="width=device-width, initial-scale=1"/>
@@ -25,8 +25,8 @@
 				<div class="row pad-small">
 					<div class="col-sm-12">
 						<div class="inner-title">
-							<h3>NOSOTROS</h3>
-							<p>CREA TU MARCA PERSONAL</p>
+							<h3>CONSTRUCCIÓN</h3>
+							<p>CONSTRUYE LA CASA DE TUS SUEÑOS</p>
 						</div>
 					</div>
 				</div>
@@ -35,52 +35,43 @@
 
 		<section class="paragraph">
 			<div class="container">
-				<h1>GrowVision está creciendo y llegando donde nadie más llega</h1>
-				<p>
-				Tenemos como objetivo brindar un servicio de calidad, que se ajuste a tu moda, un lente que marque tu estilo y personalidad.<br><br>
-				
-				En GrowVision podrás encontrar las nuevas tendencias en lentes. Te esperamos en nuestro local en La Serena.<br><br>
-
-				</p>
+				<h1>Elegancia y eficiencia</h1>
+				<p>Con nuestro nutrido equipo de trabajo completamos una basta experiencia en el desarrollo de tus proyectos peronales, construyendo hogares modernos y finamente terminados para entregar en tus manos lo que tú mereces, la casa de tus sueños.</p>
 			</div>				
 		</section>
 
 		<section class="blockquote">
 			<div class="container">
-				<h1>GrowVision se adapta a tí</h1>
-					<blockquote>Salimos del formato convencional para ser una optica de vanguardia, donde te encuentres a gusto eligiendo el modelo mas vigente de cada temporada.</blockquote>
+				<h1>Las terminaciones son un arte</h1>
+					<blockquote>La vivienda es más que un volumen funcional… debe ser una sinfonía de volúmenes donde la estética y el atractivo visual se complementen con la funcionalidad, creando finalmente un hogar.</blockquote>
 			</div>
 		</section>
-	<!--
+
 		<section class="unordered-list">
 			<div class="container">
-				<h1>Arma el rompecabezas</h1>				
+				<h1>Trabajos de vanguardia</h1>				
 				<div class="row">
 					<div class="col-md-7">
-						<p>
-							Ostende quedará a tu dispocición, puedes crear nuevos ítems y hacer de esta herramienta
-							un potente producto que facilitará tu vida profesional, la de tus empleados y clientes.
-						</p>
+						<p>Los nuevos materiales de construcción no son una barrera para seguir construyendo, nos adaptamos a tus requierimientos con lo mejor del mercado.</p>
 					</div>
 				</div>	
 				 	
 				 <ul class="unordarlist">
 					<li class="fa fa-square" aria-hidden="true" >
-						Publica nuevos contenidos ilimitadamente.
+						Panel Zip.
 					</li><br>
 					<li class="fa fa-square" aria-hidden="true">
-						Envía presupuestos a tus clientes
+						Metalcom.
 					</li><br>
 					<li class="fa fa-square" aria-hidden="true">
-						Añade nuevas funcionalidades, lo que necesites.
+						Material sólido.
 					</li><br>
 					<li class="fa fa-square" aria-hidden="true">
-						Lleva a tu empresa a otro nivel disponiendo de una herramienta versátil y programadores a tu servicio.
+						Estructuras.
 					</li>
 				</ul>
 			</div>								
 		</section>
-		-->
 
 		
 

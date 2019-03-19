@@ -2,7 +2,7 @@
 
 <html>
 	<head>
-		<?php include("complements/title.php") ?>
+		<title>Gasfiteria</title>
 
 		<meta charset="utf-8"/>
 		<meta name="viewport" content="width=device-width, initial-scale=1"/>
@@ -25,8 +25,8 @@
 				<div class="row pad-small">
 					<div class="col-sm-12">
 						<div class="inner-title">
-							<h3>CONVENIOS</h3>
-							<p>Beneficios y descuentos</p>
+							<h3>GASFITERIA</h3>
+							<p>REDES SANITARIAS Y DE GAS</p>
 						</div>
 					</div>
 				</div>
@@ -35,42 +35,36 @@
 
 		<section class="paragraph">
 			<div class="container">
-				<h1>Demuestra que estas preocupado por tus empleados</h1>
-				<p>
-					GrowVision ha diseñado un servicio enfocado en tus trabajadores.<br><br>
-
-					Tendrás la satisfacción de ser una empresa comprometida con su equipo de trabajo brindándoles la oportunidad de acceder a un servicio enfocado a la salud visual con ofertas convenientes y una atención privilegiada.<br><br>
-
-					Si deseas tener ms información de este servicio <a href="index.php">contáctanos</a>.
-				</p>
+				<h1>Agua, redes sanitarias y gas</h1>
+				<p>Nestro valor humano responsable y capacitado entrega una solucion eficaz y oportuna a los requerimientos de nuestros cliente..</p>
 			</div>				
 		</section>
-<!--
+
 		<section class="unordered-list">
 			<div class="container">
-				<h1>Rápido y sencillo</h1>				
+				<h1>Trabajo seguro y responsable</h1>				
 				<div class="row">
 					<div class="col-md-7">
-						<p>Haz tus presupuestos y envíalos instantáneamente:</p>
+						<p>Nos enfocamos en los siguientes servicios:</p>
 					</div>
 				</div>	
 				 	
 				 <ul class="unordarlist">
 					<li class="fa fa-square" aria-hidden="true" >
-						Descarga tu planilla.
+						Gasfiteria.
 					</li><br>
 					<li class="fa fa-square" aria-hidden="true">
-						Genera el presupuesto.
+						Griferia.
 					</li><br>
 					<li class="fa fa-square" aria-hidden="true">
-						Guardalo en PDF.
+						Destapes.
 					</li><br>
 					<li class="fa fa-square" aria-hidden="true">
-						Envíalo al correo de tu cliente.
+						Filtraciones.
 					</li>
 				</ul>
 			</div>								
-		</section> -->
+		</section>
 
 
 		

@@ -33,7 +33,7 @@ window.location.href='javascript:history.go(-1);';
         <meta name="description" content="">
         <meta name="author" content="">
 
-        <?php include("../../../complements/ostende.php") ?>
+        <title>SdxPlus - Cimenta S&S</title>
 
         <!-- Bootstrap Core CSS -->
         <link href="../css/bootstrap.min.css" rel="stylesheet">
@@ -113,7 +113,7 @@ window.location.href='javascript:history.go(-1);';
                                                 <textarea class="form-control" rows="3" name="contenido"></textarea>
                                         </div>
                                         <button type="submit" class="btn btn-success btn-circle btn-xl"><i class="fa fa-check"></i></button>
-                                        <a href="javascript:history.go(-1);" style="padding: 17px;" class="btn btn-warning btn-circle btn-xl"><i class="fa fa-times"></i></a>
+                                        <a href="javascript:history.go(-1);" class="btn btn-warning btn-circle btn-xl"><i class="fa fa-times"></i></a>
                                         </form>
                                     </div>
                                     <!-- /.col-lg-6 (nested) -->

@@ -70,7 +70,6 @@ try {
 									window.location.href='javascript:history.go(-1);';
 								</script>
 							<?php
-							return;
 						} else{
 					        ?>
 								<script>
@@ -123,6 +122,14 @@ try {
     ?>
 	<script>
 		alert('Ocurrió un error al subir la imagen [ERROR L124]\nEs probable que la imagen pesa más de 2 MB.');
+		//window.location.href='javascript:history.go(-1);';
+	</script>
+	<?php 
+}finally  {
+   
+    ?>
+	<script>
+		alert('Ocurrió un error al subir la imagen [ERROR L132]\nEs probable que la imagen pesa más de 2 MB.');
 		//window.location.href='javascript:history.go(-1);';
 	</script>
 	<?php 

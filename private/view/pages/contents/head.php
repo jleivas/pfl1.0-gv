@@ -22,7 +22,7 @@
                         <ul class="dropdown-menu dropdown-user">
                             
                             <li class="divider"></li>
-                            <li><a href="../../fn/fnLogout.php"><i class="fa fa-sign-out fa-fw"></i> Cerrar</a>
+                            <li><a href="login.html"><i class="fa fa-sign-out fa-fw"></i> Cerrar</a>
                             </li>
                         </ul>
                     </li>

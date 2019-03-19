@@ -7,7 +7,7 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-	<?php include("complements/title.php") ?>
+	<title>Cimenta SyS</title>
 
 	<meta charset="utf-8"/>
 	<meta name="viewport" content="width=device-width, initial-scale=1"/>
@@ -36,10 +36,10 @@
 							<div class="overlay"></div>
 							<div class="head-text">
 								<div class="col-md-6 col-md-offset-3">
-									<h1>GrowVision</h1>
+									<h1>CONSTRUYE TUS SUEÑOS CON NOSOTROS</h1>
 								</div>
 								<div class="col-md-6 col-md-offset-3">
-									<a href="site1.php">Excelentes precios y productos.</a>
+									<a href="construccion.php">CONSTRUCCIÓN</a>
 								</div>
 							</div>
 						</div>
@@ -48,10 +48,10 @@
 							<div class="overlay"></div>
 							<div class="head-text">
 								<div class="col-md-6 col-md-offset-3">
-									<h1>GrowVision Anteojos</h1>
+									<h1>DALE ENERGÍA A TU HOGAR</h1>
 								</div>
 								<div class="col-md-6 col-md-offset-3">
-									<a href="site2.php">Ecuentra lo que buscas y mas.</a>
+									<a href="electricidad.php">ELECTRICIDAD</a>
 								</div>
 							</div>
 						</div>
@@ -60,10 +60,10 @@
 							<div class="overlay"></div>
 							<div class="head-text">
 								<div class="col-md-6 col-md-offset-3">
-									<h1>GrowVision Empresas</h1>
+									<h1>REDES SANITARIAS Y GAS</h1>
 								</div>
 								<div class="col-md-6 col-md-offset-3">
-									<a href="site3.php">Ofertas, descuentos y convenios con empresas.</a>
+									<a href="gasfiteria.php">GASFITERÍA</a>
 								</div>
 							</div>
 						</div>
@@ -131,7 +131,7 @@
 		</div>
 	</section>
 
-	<!-- Testimonial -->
+	<!-- Testimonial 
 
 	<section class="testimonial">
 		<div class="container">
@@ -140,8 +140,8 @@
 					<div class="row">
 						<div class="col-md-8 col-md-offset-2">
 					    	<div class="text-center">
-					    		<p>“ Publica los comentarios de tus clientes aquí.”</p>
-					    		<p>— Softdirex</p>
+					    		<p>“ I've been using Medium Rare templates for a couple of years now - they're always highly polished and backed up by amazing support.”</p>
+					    		<p>— Sam Prichard, Interface Designer</p>
 					    	</div>
 					    </div>
 					</div>
@@ -150,8 +150,8 @@
 					<div class="row">
 						<div class="col-md-8 col-md-offset-2">
 					    	<div class="text-center">
-					    		<p>“ No dejes pasar esta oportunidad y compra tu sitio web por un año.”</p>
-					    		<p>— Jorge Leiva - Softdirex</p>
+					    		<p>“ I've been using Medium Rare templates for a couple of years now - they're always highly polished and backed up by amazing support.”</p>
+					    		<p>— Sam Prichard, Interface Designer</p>
 					    	</div>
 					    </div>
 					</div>
@@ -160,8 +160,8 @@
 					<div class="row">
 						<div class="col-md-8 col-md-offset-2">
 					    	<div class="text-center">
-					    		<p>“ Usa Ostende, no vas a querer dejarlo jamas, mas info en www.softdirex.cl.”</p>
-					    		<p>— Ostende</p>
+					    		<p>“ I've been using Medium Rare templates for a couple of years now - they're always highly polished and backed up by amazing support.”</p>
+					    		<p>— Sam Prichard, Interface Designer</p>
 					    	</div>
 					    </div>
 					</div>
@@ -169,18 +169,18 @@
 			</div>
 		</div>
 	</section>
-	<!-- section -->
+	section -->
 
 	<section class="">
 		<div class="container">
 			<div class="col-md-12 contact-field">
 				<div class="col-md-6">
-					<form action="private/fn/fnSendos.php" role="form" method="post">
+					<form>
 						<div class="row">
 							<div class="col-md-6">
 								<div class="form-group">
 									<p>NOMBRE <span class="star">*</span></p>
-									<input type="text" class="form-control" name="nombre" id="nombre"/>
+									<input type="text" class="form-control" name="name" id="name"/>
 								</div>
 							</div>
 							<div class="col-md-6">
@@ -197,7 +197,7 @@
 									<textarea class="form-control message" rows="2" name="mensaje" id="mensaje"></textarea>
 								</div>
 								<p>
-								  <button type="submit" class="btn btn-tobais btn-send">ENVIAR MENSAJE</button>
+								  <a href="#" type="button" class="btn btn-tobais btn-send">ENVIAR MENSAJE</a>
 								</p>
 							</div>
 						</div>
@@ -211,7 +211,7 @@
 							<div class="img-wrapper">
 								<img class="img-responsive" src="assets/images/icons/address.png" alt="" />
 							</div>
-							<p>Av. Amunategui 489 Of. 230 Porta Amunategui <br> La Serena | Chile</p>
+							<p>Calle Uno Norte #130, Colonia Kennedy <br> Paine | Chile</p>
 						</div>
 						<hr>
 						<div class="contact-info-content">
@@ -219,7 +219,8 @@
 							<div class="img-wrapper">
 								<img class="img-responsive" src="assets/images/icons/call.png" alt="" />
 							</div>
-							<p>+512 689 888 / +569 621 290 02
+							<p>+044 425 541 42 / +044 455 541 44
+								<br>+044 455 541 46 (FAX)
 							</p>
 						</div>
 						<hr>
@@ -228,7 +229,7 @@
 							<div class="img-wrapper">
 								<img class="img-responsive" src="assets/images/icons/email.png" alt="" />
 							</div>
-							<p>info@growvision.cl <br>awilhelm@growvision.cl</p>
+							<p>info@cimentasys.cl <br>jsilva@cimentasys.cl</p>
 						</div>
 					</div> <!-- /.contact-info -->
 				</div>

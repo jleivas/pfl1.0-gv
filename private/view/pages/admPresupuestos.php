@@ -38,7 +38,7 @@ if (!isset($rootDir)) $rootDir = $_SERVER['DOCUMENT_ROOT'];
         <meta name="description" content="">
         <meta name="author" content="">
 
-        <?php include("../../../complements/ostende.php") ?>
+        <title>SdxPlus - Cimenta S&S</title>
 
         <!-- Bootstrap Core CSS -->
         <link href="../css/bootstrap.min.css" rel="stylesheet">

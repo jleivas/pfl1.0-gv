@@ -8,7 +8,7 @@
 								<img src="assets/images/nav-icon.png" class="img-responsive" alt="Collapsable Navbar">
 							</a>
 							<a href="index.php">
-								<span><img src="assets/images/logo2.png" width="100" height="40"></span>
+								<span><img src="assets/images/logo.png"></span>
 							</a>
 						</div>
 					</header>
@@ -19,9 +19,9 @@
 						<h2>Menu</h2>
 						<ul>
 							<li><a href="index.php">Inicio</a></li>
-							<li><a href="site1.php">Nosotros</a></li>
-							<li><a href="site2.php">Servicios</a></li>
-							<li><a href="site3.php">Convenios</a></li>
+							<li><a href="construccion.php">Construcción</a></li>
+							<li><a href="electricidad.php">Electricidad</a></li>
+							<li><a href="gasfiteria.php">Gasfitería</a></li>
 							<li><a href="login.php">Acceder</a></li>
 						</ul>
 					</nav>
