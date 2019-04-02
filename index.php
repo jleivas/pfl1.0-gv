@@ -229,7 +229,7 @@
 							<div class="img-wrapper">
 								<img class="img-responsive" src="assets/images/icons/email.png" alt="" />
 							</div>
-							<p>info@cimentasys.cl <br>jsilva@cimentasys.cl</p>
+							<p>info@construccionescimenta.cl <br>jsilva@construccionescimenta.cl</p>
 						</div>
 					</div> <!-- /.contact-info -->
 				</div>

@@ -144,9 +144,9 @@ function enviarBoletin2($proyecto2,$autor2,$cliente2,$texto2,$mail2,$nombreArchi
 	$mail = new PHPMailer();
 	$mail->CharSet = 'UTF-8';
 	$mail->Host = "mx1.hostinger.es";
-	$mail->From = "no-reply@cimentasys.cl";
+	$mail->From = "no-reply@construccionescimenta.cl";
 	$mail->FromName = "Cimenta S&S";
-	$mail->Subject = "Presupuesto de ".$proyecto2." [cimentasys.cl]";
+	$mail->Subject = "Presupuesto de ".$proyecto2." [construccionescimenta.cl]";
 	$mail->IsHTML(true);
 	$cont=0;
 	// HTML body
@@ -186,7 +186,7 @@ function enviarBoletin2($proyecto2,$autor2,$cliente2,$texto2,$mail2,$nombreArchi
 		  "Estimado ".$cliente2.", le informamos que se encuentra disponible el presupuesto para su proyecto:<br><br>".$texto2.
 		  
 		"</font>".
-		"<br><br><br><a href='http://www.cimentasys.cl/' class='boton_personalizado'>Ir a cimentasys.cl</a><br><br><br>".
+		"<br><br><br><a href='http://www.construccionescimenta.cl/' class='boton_personalizado'>Ir a construccionescimenta.cl</a><br><br><br>".
 		"<font color='Blue' face='verdana'>".
 		"<h3>Para visualizar el contenido, descargue el archivo adjunto.</h3>".
 		"</font>".
@@ -196,7 +196,7 @@ function enviarBoletin2($proyecto2,$autor2,$cliente2,$texto2,$mail2,$nombreArchi
       		
 		  "<hr><h6>Copyright 2018 por <a href='www.softdirex.cl' target='_blank' color='Blue'><b>Softdirex</b></a>&nbsp;&nbsp;&nbsp;&nbsp;
 		        <img align='center' src='https://www.softdirex.cl/assets/img/ft-cimenta.png'>      ".
-		  "&nbsp;&nbsp;&nbsp;&nbsp;<a href='www.cimentasys.cl' target='_blank' color='Blue'><b>Cimenta S&S</b></a>".
+		  "&nbsp;&nbsp;&nbsp;&nbsp;<a href='www.construccionescimenta.cl' target='_blank' color='Blue'><b>Cimenta S&S</b></a>".
 		" Construimos tus sueños</h6>".
 		"<hr>".
 		"</div>".
